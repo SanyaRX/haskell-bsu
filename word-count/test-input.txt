@@ -1,0 +1,1 @@
+test file for word count program that counts words in file
